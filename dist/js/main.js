@@ -11,11 +11,11 @@
 
 /***/ "./src/js/main.ts":
 /*!************************!*\
-  !*** ./src/js/main.ts ***!
+  !*** ./src/ts/main.ts ***!
   \************************/
 /***/ (() => {
 
-eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJtYXBwaW5ncyI6IiIsIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOltdLCJzb3VyY2VzQ29udGVudCI6WyIiXSwiZmlsZSI6Ii4vc3JjL2pzL21haW4udHMuanMifQ==\n//# sourceURL=webpack-internal:///./src/js/main.ts\n");
+eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJtYXBwaW5ncyI6IiIsIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOltdLCJzb3VyY2VzQ29udGVudCI6WyIiXSwiZmlsZSI6Ii4vc3JjL2pzL21haW4udHMuanMifQ==\n//# sourceURL=webpack-internal:///./src/ts/main.ts\n");
 
 /***/ }),
 
